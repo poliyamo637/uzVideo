@@ -34,11 +34,6 @@
       "url": "https://mozhuazy.com/api.php/provide/vod"
     },
     {
-      "name": "🎬爱奇艺",
-      "remark": "LVZS",
-      "url": "https://iqiyizyapi.com/api.php/provide/vod"
-    },
-    {
       "name": "🎬电影天堂",
       "remark": "LVZS",
       "url": "http://dyttzyw.com/api.php/provide/vod/?ac=list"
@@ -101,7 +96,7 @@
     {
       "name": "🎬iQIYI",
       "remark": "LVZS",
-      "url": "https://iqiyizyapi.com/api.php/provide/vod/from/snm3u8/at/xml"
+      "url": "https://iqiyizyapi.com/api.php/provide/vod"
     },
     {
       "name": "🎬ikun",
