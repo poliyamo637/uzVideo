@@ -96,7 +96,7 @@
     {
       "name": "🎬iQIYI",
       "remark": "LVZS",
-      "url": "https://iqiyizyapi.com/api.php/provide/vod/?ac=list"
+      "url": "https://www.iqiyizyapi.com/api.php/provide/vod/?ac=list"
     },
     {
       "name": "🎬ikun",
